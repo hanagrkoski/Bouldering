@@ -1,0 +1,46 @@
+body {
+    font-family: sans-serif;
+}
+
+nav a {
+    text-decoration: none;
+    font-size: 20px;
+    border-bottom: 5px solid black;
+    padding: 5px;
+    margin: 10px;
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.hana {
+    border-left: 10px dotted black;
+    margin: 20px;
+}
+
+.hads {
+    border-left: 10px dotted black;
+    margin: 20px;
+}
+
+.haha {
+    border-left: 10px dotted black;
+    margin: 20px;
+}
+
+main p {
+    border: 1px solid black;
+    padding: 5px;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+footer p {
+    font-size: 20px;
+    background-color: black;
+    padding: 5px;
+    color: white;
+}
+
